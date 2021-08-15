@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-video-api/static/css/main.1ff175ae.chunk.css",
+    "main.js": "/react-video-api/static/js/main.0bc343cf.chunk.js",
+    "main.js.map": "/react-video-api/static/js/main.0bc343cf.chunk.js.map",
+    "runtime-main.js": "/react-video-api/static/js/runtime-main.af5c7799.js",
+    "runtime-main.js.map": "/react-video-api/static/js/runtime-main.af5c7799.js.map",
+    "static/js/2.4c914a1a.chunk.js": "/react-video-api/static/js/2.4c914a1a.chunk.js",
+    "static/js/2.4c914a1a.chunk.js.map": "/react-video-api/static/js/2.4c914a1a.chunk.js.map",
+    "index.html": "/react-video-api/index.html",
+    "static/css/main.1ff175ae.chunk.css.map": "/react-video-api/static/css/main.1ff175ae.chunk.css.map",
+    "static/js/2.4c914a1a.chunk.js.LICENSE.txt": "/react-video-api/static/js/2.4c914a1a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af5c7799.js",
+    "static/js/2.4c914a1a.chunk.js",
+    "static/css/main.1ff175ae.chunk.css",
+    "static/js/main.0bc343cf.chunk.js"
+  ]
+}
